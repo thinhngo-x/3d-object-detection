@@ -1,1 +1,3 @@
-# 3d-object-detection
+# Voxel-based object detector on 3D Point clouds
+
+This repo is for my internship work including: Code (a part of the implementations), a report and Powerpoint slides.
